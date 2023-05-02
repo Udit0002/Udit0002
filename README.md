@@ -16,7 +16,7 @@
 <p align="left">
   
 <a href="https://www.linkedin.com/in/udit-chaudhary-9aa0b1253/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Udit Chaudhary" height="30" width="40" /></a>
-<a href="https://www.instagram.com/udit_chaudhary_/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="udit_chaudhary_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/udit_chaudhary_/" target="_blank"><img align="center" src="/icons8-instagram.svg" alt="udit_chaudhary_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
