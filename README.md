@@ -17,7 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Udit0002&label=Profile%20views&color=0e75b6&style=flat" alt="Udit0002" /> </p>
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE @ Bennett University (CGPA: 9.2)  
+- 🎓 B.Tech CSE @ Bennett University (CGPA: 9.3)  
 - 🌱 Exploring **AI, Web, and System Design**  
 - 🛠 Built **Fintrack X**, an AI-powered finance tracker & **SwitchStream**, a scalable live-streaming platform  
 - 🧠 Researching **Multi-Model Sentiment Analysis** (BERT + GNN + LightGBM) – 94.6% accuracy  
